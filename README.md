@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Amaka.
 - 👀 I’m interested in data analysis, data science, machine learning and artificial intelligence projects.
-- 🌱 I’m currently working on predictive models and sentiment analysis and actively looking for a new role as a Data Scientist. 
-- 💞️ I’m looking to collaborate with you in any data science, machine learning and artificial intelligence projects.
+- 🌱 I’m open to work as a data analysis, data scientist.
+- 💞️ I’m looking to collaborate with you in any data analyst, data scientist projects.
 - 📫 You can reach me: via email address: **amaka.nzomiwu1@gmail.com** and I will be more than happy to engage.
 
 <!---
